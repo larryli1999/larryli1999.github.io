@@ -16,11 +16,13 @@ Education
 Research Experience
 ======
 
-**University of Waterloo**: Research Assistant
+##Reserach Assistant
+##Unviersity of Waterloo
   * Reserach on information retrieval and natural language processing
   * Supervisor: Prof. Jimmy Lin
 
-**University of Waterloo (Kimia Lab): Undergraduate Reserach Assistant**
+##Undergraduate Reserach Assistant
+##University of Waterloo (Kimia Lab) 
   * Research on medical image search and keyword extraction
   * Supervisor: Prof. Hamid Tizhoosh
 
