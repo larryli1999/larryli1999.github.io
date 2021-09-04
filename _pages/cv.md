@@ -13,18 +13,16 @@ Education
 ======
 * B.A.Sc. in Mechatronics Engineering with AI Option, University of Waterloo, Canada, 2017-2022
 
-
-
 Research Experience
 ======
 
-University of Waterloo: Research Assistant
+**University of Waterloo: Research Assistant**
   * Reserach on information retrieval and natural language processing
   * Supervisor: Prof. Jimmy Lin
 
 
 
-University of Waterloo (Kimia Lab): Undergraduate Reserach Assistant
+**University of Waterloo (Kimia Lab): Undergraduate Reserach Assistant**
   * Research on medical image search and keyword extraction
   * Supervisor: Prof. Hamid Tizhoosh
 
