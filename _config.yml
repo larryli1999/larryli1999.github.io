@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : `:houses:`
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yilin Li"
 description              : &description "4th Year Mechatronics Engineering Student at Unviersity of Waterloo"
