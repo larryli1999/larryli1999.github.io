@@ -10,4 +10,4 @@ redirect_from:
 
 Hi! I'm Larry, an undergraduate student at [University of Waterloo](https://uwaterloo.ca/) studying Mechatronics Engineering with Artificial Intelligence Option. 
 
-My research interest is on natural language processing (NLP), computer vision (CV) and robotics.
+My research interest is on natural language processing, computer vision and robotics.
