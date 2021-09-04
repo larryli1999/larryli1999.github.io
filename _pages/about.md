@@ -12,4 +12,4 @@ Hi! I'm Larry, an undergraduate student at [University of Waterloo](https://uwat
 
 My research interest includes natural language processing, computer vision and robotics.
 
-Fun fact: I got the CCOM performace certificate of [Erhu](https://www.lantungmusic.com/erhu/) (a traditional Chinese Instrument) at grade 10!
+Fun fact: I got the CCOM performace certificate of [Erhu](https://www.lantungmusic.com/erhu/) (a traditional Chinese Instrument) in grade 10!
