@@ -12,42 +12,64 @@ redirect_from:
 Education
 ======
 ### University of Waterloo
-* B.A.Sc. in Mechatronics Engineering with AI Option Sep 2017 - 2022
-    
+*B.A.Sc. in Mechatronics Engineering with AI Option*<br/>
 
 Research Experience
 ======
 ### Reserach Assistant
-Unviersity of Waterloo
-  * Reserach on information retrieval and natural language processing
-  * Supervisor: Prof. Jimmy Lin
+Unviersity of Waterloo<br/>
+*May 2021 - Present;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
+* Reserached on information retrieval and natural language processing
+* Supervisor: Prof. Jimmy Lin
+<br/>
 
-### Undergraduate Reserach Assistant
-University of Waterloo ([Kimia Lab](https://kimialab.uwaterloo.ca/kimia/)) 
-  * Research on medical image search and keyword extraction
-  * Supervisor: Prof. Hamid Tizhoosh
+### Undergraduate Reserach Assistant                                            
+University of Waterloo ([Kimia Lab](https://kimialab.uwaterloo.ca/kimia/))<br/>
+*Sep - Dec 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
+* Researched on medical image search and keyword extraction
+* Supervisor: Prof. Hamid Tizhoosh
 
 Work Experience
 ======
+### Machine Learning Engineer Intern
+Huawei Canada<br/>
+*Sep - Dec 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montreal, QC*<br/>
+* Research on 8-bit quantization and strucutred pruning on BERT
+* Supervisor: Ella Charlaix
+<br/>
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Deep Learning Engineering Intern
+Synapse Technology<br/>
+*Jan - Apr 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palo Alto, CA*<br/>
+* Developed 2D and 3D object detection algorithms for weapon detection
+* Supervisor: Jay Patel, Simanta Gautam
+<br/>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+### Machine Learning Developer Intern
+Primate Labs<br/>
+*May - Aug 2019;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON*<br/>
+* Developed deep learning applications for Android benchmarking
+* Supervisor: John Poole
+<br/>
+
+### Robotics Software Developer Intern
+Engineering Services Inc.<br/>
+*Jan - Apr 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON*<br/>
+* Developed navigation algorithm for autonomous indoor robots
+* Supervisor: Dr. Ali Moatadelro
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Python
+  * C/C++
+  * C#
+  * Java
+* Technologies/Tools
+  * Deep Learning
+  * NLP
+  * CV
+  * Pytorch/TensorFlow/Keras
 
 Publications
 ======
