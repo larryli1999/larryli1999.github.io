@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Larry, a undergraduate student at [University of Waterloo](https://uwaterloo.ca/) studying Mechatronics Engineering with Artificial Intelligence Option. 
+Hi! I'm Larry, an undergraduate student at [University of Waterloo](https://uwaterloo.ca/) studying Mechatronics Engineering with Artificial Intelligence Option. 
 
 My research interest is on natural language processing (NLP), computer vision (CV) and robotics.
