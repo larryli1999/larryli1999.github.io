@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my cv [here]()
+
 Education
 ======
 ### University of Waterloo
