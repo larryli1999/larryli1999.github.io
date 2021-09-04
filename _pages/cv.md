@@ -18,47 +18,41 @@ Education
 
 Research Experience
 ======
-**Reserach Assistant**<br/>
-Unviersity of Waterloo<br/>
-*May 2021 - Present;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
-* Reserached on information retrieval and natural language processing
-* Supervisor: Prof. Jimmy Lin
+* **Reserach Assistant** - Unviersity of Waterloo<br/>
+  * *May 2021 - Present;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
+  * Reserached on information retrieval and natural language processing
+  * Supervisor: Prof. Jimmy Lin
 <br/>
 
-**Undergraduate Reserach Assistant**<br/>
-University of Waterloo ([Kimia Lab](https://kimialab.uwaterloo.ca/kimia/))<br/>
-*Sep - Dec 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
-* Researched on medical image search and keyword extraction
-* Supervisor: Prof. Hamid Tizhoosh
+* **Undergraduate Reserach Assistant** - University of Waterloo ([Kimia Lab](https://kimialab.uwaterloo.ca/kimia/))<br/>
+  * *Sep - Dec 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
+  * Researched on medical image search and keyword extraction
+  * Supervisor: Prof. Hamid Tizhoosh
 
 Work Experience
 ======
-**Machine Learning Engineer Intern**<br/>
-Huawei Canada<br/>
-*Sep - Dec 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montreal, QC*<br/>
-* Research on 8-bit quantization and strucutred pruning on BERT
-* Supervisor: Ella Charlaix
+* **Machine Learning Engineer Intern** - Huawei Canada<br/>
+  * *Sep - Dec 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montreal, QC*<br/>
+  * Research on 8-bit quantization and strucutred pruning on BERT
+  * Supervisor: Ella Charlaix
 <br/>
 
-**Deep Learning Engineering Intern**<br/>
-Synapse Technology<br/>
-*Jan - Apr 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palo Alto, CA*<br/>
-* Developed 2D and 3D object detection algorithms for weapon detection
-* Supervisor: Jay Patel, Simanta Gautam
+* **Deep Learning Engineering Intern** - Synapse Technology<br/>
+  * *Jan - Apr 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palo Alto, CA*<br/>
+  * Developed 2D and 3D object detection algorithms for weapon detection
+  * Supervisor: Jay Patel, Simanta Gautam
 <br/>
 
-**Machine Learning Developer Intern**<br/>
-Primate Labs<br/>
-*May - Aug 2019;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON*<br/>
-* Developed deep learning applications for Android benchmarking
-* Supervisor: John Poole
+* **Machine Learning Developer Intern** - Primate Labs<br/>
+  * *May - Aug 2019;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON*<br/>
+  * Developed deep learning applications for Android benchmarking
+  * Supervisor: John Poole
 <br/>
 
-**Robotics Software Developer Intern**<br/>
-Engineering Services Inc.<br/>
-*Jan - Apr 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON*<br/>
-* Developed navigation algorithm for autonomous indoor robots
-* Supervisor: Dr. Ali Moatadelro
+* **Robotics Software Developer Intern** - Engineering Services Inc.<br/>
+  * *Jan - Apr 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, ON*<br/>
+  * Developed navigation algorithm for autonomous indoor robots
+  * Supervisor: Dr. Ali Moatadelro
 
 Skills
 ======
