@@ -9,12 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+Education
+======
 ### University of Waterloo
 * B.A.Sc. in Mechatronics Engineering with AI Option Sep 2017 - 2022
     
 
-## Research Experience
+Research Experience
+======
 ### Reserach Assistant
 Unviersity of Waterloo
   * Reserach on information retrieval and natural language processing
