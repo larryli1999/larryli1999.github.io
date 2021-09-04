@@ -6,4 +6,3 @@ date: 2009-10-01
 venue: 'arXiv 2019.'
 paperurl: 'https://arxiv.org/abs/1903.07406'
 ---
-[Download paper here](https://arxiv.org/abs/1903.07406)
