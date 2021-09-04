@@ -13,8 +13,8 @@ Download my CV [here](http://larryli1999.github.io/files/CV.pdf)
 
 Education
 ======
-**University of Waterloo**<br/>
-*B.A.Sc. in Mechatronics Engineering with AI Option*<br/>
+* **University of Waterloo**<br/>
+  * *B.A.Sc. in Mechatronics Engineering with AI Option*<br/>
 
 Research Experience
 ======
