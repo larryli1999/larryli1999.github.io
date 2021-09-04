@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{https://scholar.google.com/citations?user=OIRpoU0AAAAJ&hl=en}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## [Automatic Classification of Pathology Reports using TF-IDF Features](https://arxiv.org/abs/1903.07406)
+Shivam Kalra, **Larry Li**, Hamid R. Tizhoosh
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+_arXiv 2019_.
