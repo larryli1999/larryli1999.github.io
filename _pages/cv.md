@@ -20,20 +20,20 @@ Research Experience
 ======
 * **Reserach Assistant** - Unviersity of Waterloo<br/>
   * *May 2021 - Present;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
-  * Reserached on information retrieval and natural language processing
+  * Reserached information retrieval and natural language processing
   * Supervisor: Prof. Jimmy Lin
 <br/>
 
 * **Undergraduate Reserach Assistant** - University of Waterloo ([Kimia Lab](https://kimialab.uwaterloo.ca/kimia/))<br/>
   * *Sep - Dec 2018;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
-  * Researched on medical image search and keyword extraction
+  * Researched medical image search and keyword extraction
   * Supervisor: Prof. Hamid Tizhoosh
 
 Work Experience
 ======
 * **Machine Learning Engineer Intern** - Huawei Canada<br/>
   * *Sep - Dec 2020;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montreal, QC*<br/>
-  * Research on 8-bit quantization and strucutred pruning on BERT
+  * Research 8-bit quantization and strucutred pruning on BERT
   * Supervisor: Ella Charlaix
 <br/>
 
