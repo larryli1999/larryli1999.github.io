@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-encoder Effectiveness for Reranking]()
+## [Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-encoder Effectiveness for Reranking](https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44#citeas)
 Ronak Pradeep, Yuqi Liu, Xinyu Zhang, Yilin Li, Andrew Yates, Jimmy Lin
 
 _Proceedings for ECIR 2022_
