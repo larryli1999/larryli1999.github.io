@@ -18,8 +18,8 @@ Education
 
 Research Experience
 ======
-* **Reserach Assistant** - Unviersity of Waterloo<br/>
-  * *May 2021 - Present;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
+* **Undergraduate Reserach Assistant** - Unviersity of Waterloo<br/>
+  * *May - Dec 2021;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, ON*<br/>
   * Reserached information retrieval and natural language processing
   * Supervisor: Prof. Jimmy Lin
 <br/>
