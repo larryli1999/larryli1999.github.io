@@ -10,16 +10,16 @@ redirect_from:
 
 <div class="role-badges">
   <span class="role-badge role-badge--blue">Data Scientist @ Arteria AI</span>
-  <span class="role-badge role-badge--green">MASc, University of Waterloo</span>
+  <span class="role-badge role-badge--green">BASc, University of Waterloo</span>
 </div>
 
 Hi! I'm Larry, a Data Scientist at [Arteria AI](https://www.arteria.ai/) and a Mechatronics Engineering graduate from the [University of Waterloo](https://uwaterloo.ca/) with an AI Option. Previously, I worked as a Data Scientist at [Telus](https://www.telus.com/) and as a Machine Learning Engineer Intern at [Huawei Canada](https://www.huawei.com/ca/).
 
 <div class="social-links">
-  <a href="mailto:y625li@uwaterloo.ca" class="social-link"><i class="fas fa-envelope"></i> Email</a>
-  <a href="https://www.linkedin.com/in/larry-yilin-li/" class="social-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
+  <a href="mailto:larryli1999@gmail.com" class="social-link"><i class="fas fa-envelope"></i> Email</a>
+  <a href="https://www.linkedin.com/in/larry-li-562163134/" class="social-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
   <a href="https://github.com/larryli1999" class="social-link"><i class="fab fa-github"></i> GitHub</a>
-  <a href="https://scholar.google.com/" class="social-link"><i class="fas fa-graduation-cap"></i> Scholar</a>
+  <a href="https://scholar.google.com/citations?user=OIRpoU0AAAAJ&hl=en" class="social-link"><i class="fas fa-graduation-cap"></i> Scholar</a>
 </div>
 
 ## Research Interests
