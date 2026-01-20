@@ -19,10 +19,8 @@ Hi! I'm Larry, a Data Scientist at [Arteria AI](https://www.arteria.ai/) and a M
   <a href="mailto:y625li@uwaterloo.ca" class="social-link"><i class="fas fa-envelope"></i> Email</a>
   <a href="https://www.linkedin.com/in/larry-yilin-li/" class="social-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
   <a href="https://github.com/larryli1999" class="social-link"><i class="fab fa-github"></i> GitHub</a>
-  <a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link"><i class="fas fa-graduation-cap"></i> Scholar</a>
+  <a href="https://scholar.google.com/" class="social-link"><i class="fas fa-graduation-cap"></i> Scholar</a>
 </div>
-
-<div class="research-interests">
 
 ## Research Interests
 
@@ -31,7 +29,5 @@ My work focuses on **document extraction systems**, **multi-agent workflows**, a
 - **Vision Language Models (VLMs)** for document understanding
 - **Information retrieval** and semantic search
 - **Applied reinforcement learning** for decision-making systems
-
-</div>
 
 Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmusic.com/erhu/) (a traditional Chinese instrument) in grade 10!
