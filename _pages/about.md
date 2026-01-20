@@ -19,12 +19,9 @@ Hi! I'm Larry, a Data Scientist at [Arteria AI](https://www.arteria.ai/) and a M
   <a href="mailto:larryli1999@gmail.com" class="social-link"><i class="fas fa-envelope"></i> Email</a>
   <a href="https://www.linkedin.com/in/larry-li-562163134/" class="social-link"><i class="fab fa-linkedin"></i> LinkedIn</a>
   <a href="https://github.com/larryli1999" class="social-link"><i class="fab fa-github"></i> GitHub</a>
-  <a href="https://scholar.google.com/citations?user=OIRpoU0AAAAJ&hl=en" class="social-link"><i class="fas fa-graduation-cap"></i> Scholar</a>
+  <a href="https://scholar.google.com/citations?user=OIRpoU0AAAAJ&hl=en" class="social-link"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
+  <a href="http://larryli1999.github.io/files/Larry_Li.pdf" class="social-link"><i class="fas fa-file-alt"></i> CV</a>
 </div>
-
-<a href="http://larryli1999.github.io/files/Larry_Li.pdf" class="cv-download-btn">
-  <i class="fas fa-download"></i> Download CV
-</a>
 
 ## Research Interests
 

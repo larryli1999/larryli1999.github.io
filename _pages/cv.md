@@ -123,7 +123,7 @@ redirect_from:
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-marker"></div>
-    <div class="timeline-date">2024</div>
+    <div class="timeline-date">2025</div>
     <div class="timeline-content">
       <h3>Smart Kitchen Multi-Agent System (SKMS)</h3>
       <p class="timeline-subtitle">Python, Google ADK, Gemini, Arize Phoenix</p>
