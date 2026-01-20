@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Larry, an undergraduate student at [University of Waterloo](https://uwaterloo.ca/) studying Mechatronics Engineering with Artificial Intelligence Option. Previously, I worked as a Machine Learning Engineer Intern at Huawei Canada and [Synapse Technology](https://www.synapsetechnology.com/). 
+Hi! I'm Larry, a Data Scientist at [Arteria AI](https://www.arteria.ai/) and a Mechatronics Engineering graduate from the [University of Waterloo](https://uwaterloo.ca/) with an AI Option. Previously, I worked as a Data Scientist at [Telus](https://www.telus.com/) and as a Machine Learning Engineer Intern at [Huawei Canada](https://www.huawei.com/ca/).
 
-My research interest includes natural language processing, computer vision and robotics.
+My work focuses on document extraction systems, multi-agent workflows, and production ML pipelines. I'm particularly interested in Vision Language Models (VLMs), information retrieval, and applied reinforcement learning.
 
-Fun fact: I got the CCOM performace certificate of [Erhu](https://www.lantungmusic.com/erhu/) (a traditional Chinese Instrument) in grade 10!
+Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmusic.com/erhu/) (a traditional Chinese instrument) in grade 10!
