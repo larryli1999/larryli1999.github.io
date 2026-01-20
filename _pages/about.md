@@ -120,7 +120,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">May 2024 — Present</div>
+      <div class="timeline-date">May 2024 - Present</div>
       <div class="timeline-content">
         <h3>Data Scientist</h3>
         <p class="timeline-subtitle">Arteria AI • Toronto, ON</p>
@@ -130,7 +130,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">Oct 2022 — May 2024</div>
+      <div class="timeline-date">Oct 2022 - May 2024</div>
       <div class="timeline-content">
         <h3>Data Scientist</h3>
         <p class="timeline-subtitle">Telus • Toronto, ON</p>
@@ -140,7 +140,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">Sep — Dec 2020</div>
+      <div class="timeline-date">Sep - Dec 2020</div>
       <div class="timeline-content">
         <h3>Machine Learning Engineer Intern</h3>
         <p class="timeline-subtitle">Huawei Canada • Montreal, QC</p>
@@ -150,7 +150,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">Jan — Apr 2020</div>
+      <div class="timeline-date">Jan - Apr 2020</div>
       <div class="timeline-content">
         <h3>Deep Learning Engineering Intern</h3>
         <p class="timeline-subtitle">Synapse Technology • Palo Alto, CA</p>
@@ -160,7 +160,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">May — Aug 2019</div>
+      <div class="timeline-date">May - Aug 2019</div>
       <div class="timeline-content">
         <h3>Machine Learning Developer Intern</h3>
         <p class="timeline-subtitle">Primate Labs • Toronto, ON</p>
@@ -170,7 +170,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">Jan — Apr 2018</div>
+      <div class="timeline-date">Jan - Apr 2018</div>
       <div class="timeline-content">
         <h3>Robotics Software Developer Intern</h3>
         <p class="timeline-subtitle">Engineering Services Inc. • Toronto, ON</p>
@@ -183,7 +183,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">May — Dec 2021</div>
+      <div class="timeline-date">May - Dec 2021</div>
       <div class="timeline-content">
         <h3>Undergraduate Research Assistant</h3>
         <p class="timeline-subtitle">University of Waterloo (Data Systems Group) • Advisor: Prof. Jimmy Lin</p>
@@ -193,7 +193,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">Sep — Dec 2018</div>
+      <div class="timeline-date">Sep - Dec 2018</div>
       <div class="timeline-content">
         <h3>Undergraduate Research Assistant</h3>
         <p class="timeline-subtitle">University of Waterloo (Kimia Lab) • Advisor: Prof. Hamid Tizhoosh</p>
@@ -219,7 +219,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
-      <div class="timeline-date">2017 — 2022</div>
+      <div class="timeline-date">2017 - 2022</div>
       <div class="timeline-content">
         <h3>University of Waterloo</h3>
         <p class="timeline-subtitle">B.A.Sc. in Mechatronics Engineering with AI Option</p>
