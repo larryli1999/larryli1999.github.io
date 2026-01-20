@@ -1,0 +1,166 @@
+/* ==========================================================================
+   Custom Modern Enhancements
+   ========================================================================== */
+
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Enhanced page styling */
+.page__content {
+
+    h1,
+    h2,
+    h3 {
+        position: relative;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: $primary-color;
+    }
+
+    h2 {
+        padding-bottom: 0.5em;
+        border-bottom: 2px solid transparent;
+        border-image: linear-gradient(90deg, $link-color, transparent) 1;
+    }
+
+    p {
+        line-height: 1.75;
+        color: $text-color;
+    }
+
+    a {
+        position: relative;
+        text-decoration: none;
+        background-image: linear-gradient(transparent calc(100% - 2px), $link-color 2px);
+        background-size: 0% 100%;
+        background-repeat: no-repeat;
+        transition: background-size 0.3s ease, color 0.3s ease;
+
+        &:hover {
+            background-size: 100% 100%;
+        }
+    }
+
+    /* List styling */
+    ul,
+    ol {
+        li {
+            margin-bottom: 0.5em;
+            line-height: 1.7;
+        }
+    }
+}
+
+/* Masthead enhancements */
+.masthead {
+    border-bottom: 1px solid $border-color;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.greedy-nav {
+    a {
+        font-weight: 500;
+        transition: color 0.2s ease;
+
+        &:hover {
+            color: $link-color;
+        }
+    }
+
+    .visible-links a {
+        position: relative;
+
+        &::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            width: 0;
+            height: 2px;
+            background: $link-color;
+            transition: all 0.3s ease;
+            transform: translateX(-50%);
+        }
+
+        &:hover::after {
+            width: 80%;
+        }
+    }
+}
+
+/* Archive/CV page enhancements */
+.archive {
+    h2 {
+        font-size: 1.5em;
+        margin-top: 2em;
+        padding-bottom: 0.3em;
+        border-bottom: 2px solid $link-color;
+    }
+
+    ul {
+        li {
+            position: relative;
+            padding-left: 0;
+
+            strong {
+                color: $primary-color;
+            }
+        }
+    }
+}
+
+/* Button enhancements */
+.btn {
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    transition: all 0.3s ease;
+    border-radius: $border-radius;
+
+    &:hover {
+        transform: translateY(-1px);
+        box-shadow: $box-shadow;
+    }
+}
+
+/* Footer styling */
+.page__footer {
+    background: $primary-color;
+    color: rgba(255, 255, 255, 0.8);
+
+    a {
+        color: $link-color-visited;
+
+        &:hover {
+            color: #fff;
+        }
+    }
+}
+
+/* Code blocks */
+pre,
+code {
+    font-family: $monospace;
+    border-radius: $border-radius;
+}
+
+div.highlighter-rouge {
+    border-radius: $border-radius;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Selection styling */
+::selection {
+    background: rgba(8, 145, 178, 0.2);
+    color: $primary-color;
+}
+
+/* Focus states for accessibility */
+a:focus,
+button:focus {
+    outline: 2px solid $link-color;
+    outline-offset: 2px;
+}
