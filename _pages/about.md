@@ -98,9 +98,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
 <section id="updates" style="padding-top: 2rem; margin-top: 2rem;">
   <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Updates</h1>
 
-  <a href="http://larryli1999.github.io/files/Larry_Li.pdf" class="cv-download-btn">
-    <i class="fas fa-download"></i> Download CV
-  </a>
+
 
   <h2>Skills</h2>
   <div class="skills-grid">

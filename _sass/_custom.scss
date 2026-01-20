@@ -179,30 +179,18 @@ html {
         font-size: 1rem;
         transition: color 0.15s ease;
 
+        padding: 0.5rem 0.75rem;
+        border-radius: 8px;
+
         &:hover {
             color: #8b5cf6;
+            background-color: rgba(139, 92, 246, 0.08);
         }
     }
 
     .visible-links a {
         position: relative;
-
-        &::after {
-            content: '';
-            position: absolute;
-            bottom: -4px;
-            left: 50%;
-            width: 0;
-            height: 3px;
-            background: linear-gradient(90deg, #14b8a6, #8b5cf6);
-            border-radius: 2px;
-            transition: all 0.3s ease;
-            transform: translateX(-50%);
-        }
-
-        &:hover::after {
-            width: 100%;
-        }
+        /* Removed underline effect in favor of background highlight */
     }
 }
 
