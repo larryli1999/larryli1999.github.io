@@ -91,13 +91,13 @@
   img {
     max-width: 175px;
     border-radius: 50%;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
-    border: 4px solid #0891b2;
+    box-shadow: 0 8px 24px rgba(139, 92, 246, 0.15);
+    border: 4px solid #8b5cf6;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 
     &:hover {
       transform: scale(1.02);
-      box-shadow: 0 12px 32px rgba(8, 145, 178, 0.2);
+      box-shadow: 0 12px 32px rgba(139, 92, 246, 0.25);
     }
 
     @include breakpoint($large) {
