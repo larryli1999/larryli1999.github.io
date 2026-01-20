@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Custom Modern Enhancements - Bright Purple Theme
+   Custom Modern Enhancements - Ronak-Inspired Design
    ========================================================================== */
 
 /* Smooth scroll */
@@ -7,13 +7,113 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Enhanced page styling */
+/* ========== GRADIENT NAME HEADING ========== */
+.gradient-name {
+    font-family: $header-font-family;
+    font-size: 3.5rem;
+    font-weight: 700;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    background: linear-gradient(135deg, #14b8a6 0%, #8b5cf6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.5rem;
+}
+
+@media (max-width: 600px) {
+    .gradient-name {
+        font-size: 2.5rem;
+    }
+}
+
+/* ========== ROLE BADGES ========== */
+.role-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0 1.5rem 0;
+}
+
+.role-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.35rem 0.85rem;
+    font-size: 0.85rem;
+    font-weight: 500;
+    border-radius: 9999px;
+    border: 1.5px solid;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.role-badge:hover {
+    transform: translateY(-1px);
+}
+
+.role-badge--blue {
+    background: rgba(59, 130, 246, 0.1);
+    color: #2563eb;
+    border-color: rgba(59, 130, 246, 0.3);
+}
+
+.role-badge--green {
+    background: rgba(34, 197, 94, 0.1);
+    color: #16a34a;
+    border-color: rgba(34, 197, 94, 0.3);
+}
+
+.role-badge--purple {
+    background: rgba(139, 92, 246, 0.1);
+    color: #7c3aed;
+    border-color: rgba(139, 92, 246, 0.3);
+}
+
+.role-badge--orange {
+    background: rgba(245, 158, 11, 0.1);
+    color: #d97706;
+    border-color: rgba(245, 158, 11, 0.3);
+}
+
+/* ========== SOCIAL LINKS ROW ========== */
+.social-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.25rem;
+    margin: 1.5rem 0;
+    padding: 1rem 0;
+    border-top: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
+}
+
+.social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    color: #64748b;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.social-link:hover {
+    color: #8b5cf6;
+    transform: translateY(-1px);
+}
+
+.social-link i,
+.social-link .fa,
+.social-link .fas,
+.social-link .fab {
+    font-size: 1.1rem;
+}
+
+/* ========== ENHANCED PAGE CONTENT ========== */
 .page__content {
 
     h1,
     h2,
     h3 {
-        position: relative;
         font-family: $header-font-family;
         font-weight: 700;
         letter-spacing: -0.02em;
@@ -21,36 +121,37 @@ html {
     }
 
     h1 {
-        font-size: 2.5em;
+        font-size: 2.25rem;
     }
 
     h2 {
-        font-size: 1.75em;
+        font-size: 1.6rem;
         padding-bottom: 0.4em;
-        margin-top: 1.5em;
+        margin-top: 2.5rem;
+        margin-bottom: 1rem;
         border-bottom: 3px solid #8b5cf6;
     }
 
     h3 {
-        font-size: 1.25em;
+        font-size: 1.2rem;
         color: #475569;
+        margin-top: 1.5rem;
     }
 
     p {
-        line-height: 1.8;
+        line-height: 1.85;
         color: $text-color;
-        font-size: 1.05em;
+        font-size: 1.05rem;
     }
 
     a {
         color: #8b5cf6;
         text-decoration: none;
         font-weight: 500;
-        transition: color 0.2s ease;
+        transition: color 0.15s ease;
 
         &:hover {
             color: #7c3aed;
-            text-decoration: underline;
         }
     }
 
@@ -63,18 +164,20 @@ html {
     }
 }
 
-/* Masthead enhancements */
+/* ========== GLASSMORPHISM NAVIGATION ========== */
 .masthead {
-    border-bottom: 1px solid $border-color;
-    background: rgba(255, 255, 255, 0.98);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    background: rgba(255, 255, 255, 0.85);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
 }
 
 .greedy-nav {
     a {
         font-family: $header-font-family;
         font-weight: 600;
-        font-size: 1.05em;
-        transition: color 0.2s ease;
+        font-size: 1rem;
+        transition: color 0.15s ease;
 
         &:hover {
             color: #8b5cf6;
@@ -87,11 +190,11 @@ html {
         &::after {
             content: '';
             position: absolute;
-            bottom: -2px;
+            bottom: -4px;
             left: 50%;
             width: 0;
             height: 3px;
-            background: #8b5cf6;
+            background: linear-gradient(90deg, #14b8a6, #8b5cf6);
             border-radius: 2px;
             transition: all 0.3s ease;
             transform: translateX(-50%);
@@ -103,20 +206,36 @@ html {
     }
 }
 
-/* Archive/CV page enhancements */
+/* ========== CARD HOVER EFFECTS ========== */
+.archive__item,
+.feature__item,
+.list__item {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 12px;
+}
+
+.archive__item:hover,
+.feature__item:hover,
+.list__item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 12px 24px rgba(139, 92, 246, 0.1);
+}
+
+/* ========== ARCHIVE/CV PAGE ========== */
 .archive {
     h2 {
         font-family: $header-font-family;
-        font-size: 1.6em;
+        font-size: 1.5rem;
         font-weight: 700;
-        margin-top: 2.5em;
-        padding-bottom: 0.4em;
+        margin-top: 3rem;
+        padding-bottom: 0.5rem;
         border-bottom: 3px solid #8b5cf6;
     }
 
     ul li {
         position: relative;
         padding-left: 0;
+        padding: 0.5rem 0;
 
         strong {
             color: $primary-color;
@@ -125,35 +244,36 @@ html {
     }
 }
 
-/* Author name styling */
+/* ========== AUTHOR/SIDEBAR ENHANCEMENTS ========== */
 .author__name {
     font-family: $header-font-family;
-    font-size: 1.4em !important;
+    font-size: 1.5rem !important;
     font-weight: 700;
     letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #14b8a6 0%, #8b5cf6 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 .author__bio {
-    font-size: 0.95em;
-    line-height: 1.6;
+    font-size: 0.95rem;
+    line-height: 1.65;
     color: #64748b;
 }
 
-/* Social links */
 .author__urls a {
     color: #64748b;
+    transition: all 0.2s ease;
 
     &:hover {
         color: #8b5cf6;
         background-color: rgba(139, 92, 246, 0.08);
-    }
-
-    &:hover i {
-        color: #8b5cf6;
+        transform: translateX(2px);
     }
 }
 
-/* Button enhancements */
+/* ========== BUTTONS ========== */
 .btn {
     font-family: $header-font-family;
     font-weight: 600;
@@ -162,18 +282,19 @@ html {
     transition: all 0.3s ease;
 
     &:hover {
-        transform: translateY(-1px);
-        box-shadow: 0 4px 12px rgba(139, 92, 246, 0.2);
+        transform: translateY(-2px);
+        box-shadow: 0 8px 20px rgba(139, 92, 246, 0.25);
     }
 }
 
-/* Footer styling */
+/* ========== FOOTER ========== */
 .page__footer {
-    background: #1e293b;
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
     color: rgba(255, 255, 255, 0.8);
 
     a {
         color: #a78bfa;
+        transition: color 0.2s ease;
 
         &:hover {
             color: #fff;
@@ -181,7 +302,7 @@ html {
     }
 }
 
-/* Code blocks */
+/* ========== CODE BLOCKS ========== */
 pre,
 code {
     font-family: $monospace;
@@ -193,15 +314,46 @@ div.highlighter-rouge {
     box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 
-/* Selection styling */
+/* ========== SELECTION & FOCUS ========== */
 ::selection {
     background: rgba(139, 92, 246, 0.2);
     color: $primary-color;
 }
 
-/* Focus states */
 a:focus,
 button:focus {
     outline: 2px solid #8b5cf6;
     outline-offset: 2px;
+}
+
+/* ========== RESEARCH INTERESTS SECTION ========== */
+.research-interests {
+    background: linear-gradient(135deg, rgba(139, 92, 246, 0.05) 0%, rgba(20, 184, 166, 0.05) 100%);
+    border-radius: 16px;
+    padding: 1.5rem 2rem;
+    margin: 2rem 0;
+    border: 1px solid rgba(139, 92, 246, 0.1);
+}
+
+.research-interests h2 {
+    border: none;
+    margin-top: 0;
+    padding-bottom: 0.5rem;
+}
+
+/* ========== ANIMATIONS ========== */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.page__content {
+    animation: fadeInUp 0.5s ease-out;
 }
