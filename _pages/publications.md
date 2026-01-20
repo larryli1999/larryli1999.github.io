@@ -13,10 +13,10 @@ author_profile: true
     <span class="pub-year">2022</span>
   </div>
   <h3 class="pub-title">
-    <a href="https://cs.uwaterloo.ca/~jimmylin/publications/Pradeep_etal_SIGIR2022.pdf">Neural Query Synthesis and Domain-Specific Ranking Templates for Multi-Stage Clinical Trial Matching</a>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853">Neural Query Synthesis and Domain-Specific Ranking Templates for Multi-Stage Clinical Trial Matching</a>
   </h3>
   <p class="pub-authors">Ronak Pradeep, <strong>Yilin Li</strong>, Yuetong Wang, Jimmy Lin</p>
-  <a href="https://cs.uwaterloo.ca/~jimmylin/publications/Pradeep_etal_SIGIR2022.pdf" class="pub-link" target="_blank">
+  <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853" class="pub-link" target="_blank">
     <i class="fas fa-file-pdf"></i> View Paper
   </a>
 </div>
@@ -41,10 +41,10 @@ author_profile: true
     <span class="pub-year">2021</span>
   </div>
   <h3 class="pub-title">
-    <a href="https://trec.nist.gov/pubs/trec30/papers/h2oloo-DL.pdf">New Nails for Old Hammers: Anserini and Pyserini at TREC 2021</a>
+    <a href="https://github.com/castorini/pygaggle">New Nails for Old Hammers: Anserini and Pyserini at TREC 2021</a>
   </h3>
   <p class="pub-authors">Jimmy Lin, Haonen Chen, Chengcheng Hu, Sheng-Chieh Lin, <strong>Yilin Li</strong>, Xueguang Ma, Ronak Pradeep, Jheng-Hong Yang, Xinyu Zhang</p>
-  <a href="https://trec.nist.gov/pubs/trec30/papers/h2oloo-DL.pdf" class="pub-link" target="_blank">
+  <a href="https://github.com/castorini/pygaggle" class="pub-link" target="_blank">
     <i class="fas fa-file-pdf"></i> View Paper
   </a>
 </div>
