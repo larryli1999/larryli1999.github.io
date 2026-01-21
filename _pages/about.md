@@ -1,6 +1,5 @@
 ---
 permalink: /
-
 excerpt: "About Me"
 author_profile: false
 redirect_from: 
@@ -31,7 +30,7 @@ redirect_from:
   </div>
 </div>
 
-## Research Interests
+## Technical Focus
 
 My work focuses on **document extraction systems**, **multi-agent workflows**, and **production ML pipelines**. I'm particularly interested in:
 
@@ -41,74 +40,8 @@ My work focuses on **document extraction systems**, **multi-agent workflows**, a
 
 Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmusic.com/erhu/) (a traditional Chinese instrument) in grade 10!
 
-<section id="publications" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
-  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Publications</h1>
-
-  <div class="publications-grid">
-    <div class="pub-card">
-      <div class="pub-header">
-        <span class="pub-venue">SIGIR 2022</span>
-        <span class="pub-year">2022</span>
-      </div>
-      <h3 class="pub-title">
-        <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853">Neural Query Synthesis and Domain-Specific Ranking Templates for Multi-Stage Clinical Trial Matching</a>
-      </h3>
-      <p class="pub-authors">Ronak Pradeep, <strong>Yilin Li</strong>, Yuetong Wang, Jimmy Lin</p>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853" class="pub-link" target="_blank">
-        <i class="fas fa-file-pdf"></i> View Paper
-      </a>
-    </div>
-
-    <div class="pub-card">
-      <div class="pub-header">
-        <span class="pub-venue">ECIR 2022</span>
-        <span class="pub-year">2022</span>
-      </div>
-      <h3 class="pub-title">
-        <a href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44">Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-encoder Effectiveness for Reranking</a>
-      </h3>
-      <p class="pub-authors">Ronak Pradeep, Yuqi Liu, Xinyu Zhang, <strong>Yilin Li</strong>, Andrew Yates, Jimmy Lin</p>
-      <a href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44" class="pub-link" target="_blank">
-        <i class="fas fa-file-pdf"></i> View Paper
-      </a>
-    </div>
-
-    <div class="pub-card">
-      <div class="pub-header">
-        <span class="pub-venue">TREC 2021</span>
-        <span class="pub-year">2021</span>
-      </div>
-      <h3 class="pub-title">
-        <a href="https://github.com/castorini/pygaggle">New Nails for Old Hammers: Anserini and Pyserini at TREC 2021</a>
-      </h3>
-      <p class="pub-authors">Jimmy Lin, Haonen Chen, Chengcheng Hu, Sheng-Chieh Lin, <strong>Yilin Li</strong>, Xueguang Ma, Ronak Pradeep, Jheng-Hong Yang, Xinyu Zhang</p>
-      <a href="https://github.com/castorini/pygaggle" class="pub-link" target="_blank">
-        <i class="fas fa-file-pdf"></i> View Paper
-      </a>
-    </div>
-
-    <div class="pub-card">
-      <div class="pub-header">
-        <span class="pub-venue">arXiv</span>
-        <span class="pub-year">2019</span>
-      </div>
-      <h3 class="pub-title">
-        <a href="https://arxiv.org/abs/1903.07406">Automatic Classification of Pathology Reports using TF-IDF Features</a>
-      </h3>
-      <p class="pub-authors">Shivam Kalra, <strong>Larry Li</strong>, Hamid R. Tizhoosh</p>
-      <a href="https://arxiv.org/abs/1903.07406" class="pub-link" target="_blank">
-        <i class="fas fa-file-pdf"></i> View Paper
-      </a>
-    </div>
-  </div>
-</section>
-
-<section id="updates" style="padding-top: 2rem; margin-top: 2rem;">
-  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Updates</h1>
-
-
-
-  <h2>Skills</h2>
+<section id="skills" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
+  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Skills</h1>
   <div class="skills-grid">
     <div class="skill-category">
       <h4><i class="fas fa-code"></i> Languages</h4>
@@ -123,8 +56,10 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       <p>GCP (Vertex AI, BigQuery), AWS (Textract), Docker, Databricks, ONNX Runtime</p>
     </div>
   </div>
+</section>
 
-  <h2>Work Experience</h2>
+<section id="work-experience" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
+  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Work Experience</h1>
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
@@ -186,8 +121,10 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       </div>
     </div>
   </div>
+</section>
 
-  <h2>Research Experience</h2>
+<section id="research-experience" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
+  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Research Experience</h1>
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
@@ -209,8 +146,10 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       </div>
     </div>
   </div>
+</section>
 
-  <h2>Projects</h2>
+<section id="projects" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
+  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Projects</h1>
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
@@ -222,8 +161,10 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       </div>
     </div>
   </div>
+</section>
 
-  <h2>Education</h2>
+<section id="education" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
+  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Education</h1>
   <div class="timeline">
     <div class="timeline-item">
       <div class="timeline-marker"></div>
@@ -233,6 +174,68 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
         <p class="timeline-subtitle">B.A.Sc. in Mechatronics Engineering with AI Option</p>
         <p class="timeline-detail">GPA: 90.6/100 • Dean's List</p>
       </div>
+    </div>
+  </div>
+</section>
+
+<section id="publications" style="padding-top: 2rem; margin-top: 2rem; border-top: 1px solid #e5e7eb;">
+  <h1 class="gradient-name" style="font-size: 2.25rem; margin-bottom: 1.5rem;">Publications</h1>
+
+  <div class="publications-grid">
+    <div class="pub-card">
+      <div class="pub-header">
+        <span class="pub-venue">SIGIR 2022</span>
+        <span class="pub-year">2022</span>
+      </div>
+      <h3 class="pub-title">
+        <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853">Neural Query Synthesis and Domain-Specific Ranking Templates for Multi-Stage Clinical Trial Matching</a>
+      </h3>
+      <p class="pub-authors">Ronak Pradeep, <strong>Yilin Li</strong>, Yuetong Wang, Jimmy Lin</p>
+      <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853" class="pub-link" target="_blank">
+        <i class="fas fa-file-pdf"></i> View Paper
+      </a>
+    </div>
+
+    <div class="pub-card">
+      <div class="pub-header">
+        <span class="pub-venue">ECIR 2022</span>
+        <span class="pub-year">2022</span>
+      </div>
+      <h3 class="pub-title">
+        <a href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44">Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-encoder Effectiveness for Reranking</a>
+      </h3>
+      <p class="pub-authors">Ronak Pradeep, Yuqi Liu, Xinyu Zhang, <strong>Yilin Li</strong>, Andrew Yates, Jimmy Lin</p>
+      <a href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44" class="pub-link" target="_blank">
+        <i class="fas fa-file-pdf"></i> View Paper
+      </a>
+    </div>
+
+    <div class="pub-card">
+      <div class="pub-header">
+        <span class="pub-venue">TREC 2021</span>
+        <span class="pub-year">2021</span>
+      </div>
+      <h3 class="pub-title">
+        <a href="https://github.com/castorini/pygaggle">New Nails for Old Hammers: Anserini and Pyserini at TREC 2021</a>
+      </h3>
+      <p class="pub-authors">Jimmy Lin, Haonen Chen, Chengcheng Hu, Sheng-Chieh Lin, <strong>Yilin Li</strong>, Xueguang Ma, Ronak Pradeep, Jheng-Hong Yang, Xinyu Zhang</p>
+      <a href="https://github.com/castorini/pygaggle" class="pub-link" target="_blank">
+        <i class="fas fa-file-pdf"></i> View Paper
+      </a>
+    </div>
+
+    <div class="pub-card">
+      <div class="pub-header">
+        <span class="pub-venue">arXiv</span>
+        <span class="pub-year">2019</span>
+      </div>
+      <h3 class="pub-title">
+        <a href="https://arxiv.org/abs/1903.07406">Automatic Classification of Pathology Reports using TF-IDF Features</a>
+      </h3>
+      <p class="pub-authors">Shivam Kalra, <strong>Larry Li</strong>, Hamid R. Tizhoosh</p>
+      <a href="https://arxiv.org/abs/1903.07406" class="pub-link" target="_blank">
+        <i class="fas fa-file-pdf"></i> View Paper
+      </a>
     </div>
   </div>
 </section>

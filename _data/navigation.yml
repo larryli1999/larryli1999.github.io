@@ -1,5 +1,20 @@
 # main links links
 main:
+  - title: "Skills"
+    url: /#skills
+
+  - title: "Work Experience"
+    url: /#work-experience
+
+  - title: "Research Experience"
+    url: /#research-experience
+
+  - title: "Projects"
+    url: /#projects
+
+  - title: "Education"
+    url: /#education
+
   - title: "Publications"
     url: /#publications
 
@@ -15,8 +30,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Updates"
-    url: /#updates
+#  - title: "Updates"
+#    url: /#updates
     
 #  - title: "Guide"
 #    url: /markdown/
