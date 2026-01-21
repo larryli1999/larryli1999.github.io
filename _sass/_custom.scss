@@ -165,11 +165,23 @@ html {
 }
 
 /* ========== GLASSMORPHISM NAVIGATION ========== */
+/* ========== GLASSMORPHISM NAVIGATION ========== */
 .masthead {
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
-    background: rgba(255, 255, 255, 0.85);
+    background: rgba(255, 255, 255, 0.95);
+    /* Increased opacity for better readability on scroll */
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 20;
+}
+
+/* Add padding to body to prevent content being hidden behind fixed nav */
+body {
+    padding-top: 80px;
+    /* Adjust based on masthead height */
 }
 
 .greedy-nav {
