@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="intro-container">
   <div class="intro-text">
-    <h1 class="gradient-name">Yilin Li (李亦林)</h1>
+    <h1 class="gradient-name">Yilin (Larry) Li (李亦林)</h1>
     <div class="role-badges">
       <span class="role-badge role-badge--blue">Data Scientist @ Arteria AI</span>
       <span class="role-badge role-badge--green">BASc, University of Waterloo</span>
@@ -26,7 +26,7 @@ redirect_from:
     </div>
   </div>
   <div class="intro-image">
-    <img src="/images/profile.jpg" alt="Yilin Li Profile Photo">
+    <img src="/images/profile.jpg" alt="Yilin (Larry) Li Profile Photo">
   </div>
 </div>
 
@@ -190,7 +190,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       <h3 class="pub-title">
         <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853">Neural Query Synthesis and Domain-Specific Ranking Templates for Multi-Stage Clinical Trial Matching</a>
       </h3>
-      <p class="pub-authors">Ronak Pradeep, <strong>Yilin Li</strong>, Yuetong Wang, Jimmy Lin</p>
+      <p class="pub-authors">Ronak Pradeep, <strong>Yilin (Larry) Li</strong>, Yuetong Wang, Jimmy Lin</p>
       <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531853" class="pub-link" target="_blank">
         <i class="fas fa-file-pdf"></i> View Paper
       </a>
@@ -204,7 +204,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       <h3 class="pub-title">
         <a href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44">Squeezing Water from a Stone: A Bag of Tricks for Further Improving Cross-encoder Effectiveness for Reranking</a>
       </h3>
-      <p class="pub-authors">Ronak Pradeep, Yuqi Liu, Xinyu Zhang, <strong>Yilin Li</strong>, Andrew Yates, Jimmy Lin</p>
+      <p class="pub-authors">Ronak Pradeep, Yuqi Liu, Xinyu Zhang, <strong>Yilin (Larry) Li</strong>, Andrew Yates, Jimmy Lin</p>
       <a href="https://link.springer.com/chapter/10.1007/978-3-030-99736-6_44" class="pub-link" target="_blank">
         <i class="fas fa-file-pdf"></i> View Paper
       </a>
@@ -218,7 +218,7 @@ Fun fact: I got the CCOM performance certificate of [Erhu](https://www.lantungmu
       <h3 class="pub-title">
         <a href="https://github.com/castorini/pygaggle">New Nails for Old Hammers: Anserini and Pyserini at TREC 2021</a>
       </h3>
-      <p class="pub-authors">Jimmy Lin, Haonen Chen, Chengcheng Hu, Sheng-Chieh Lin, <strong>Yilin Li</strong>, Xueguang Ma, Ronak Pradeep, Jheng-Hong Yang, Xinyu Zhang</p>
+      <p class="pub-authors">Jimmy Lin, Haonen Chen, Chengcheng Hu, Sheng-Chieh Lin, <strong>Yilin (Larry) Li</strong>, Xueguang Ma, Ronak Pradeep, Jheng-Hong Yang, Xinyu Zhang</p>
       <a href="https://github.com/castorini/pygaggle" class="pub-link" target="_blank">
         <i class="fas fa-file-pdf"></i> View Paper
       </a>
